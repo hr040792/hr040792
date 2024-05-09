@@ -80,5 +80,6 @@
   <img src="https://github-profile-trophy.vercel.app?username=hr040792&theme=kimbie_dark&column=-1&row=1&margin-w=8&margin-h=8&no-bg=true&no-frame=true&order=4" height="150" alt="trophy graph"  />
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=hr040792&radius=16&theme=react&area=true&order=5&hide_border=true&hide_title=true" height="300" alt="activity-graph graph"  />
 </div>
+<img src="https://raw.githubusercontent.com/hr040792/hr040792/output/snake.svg" alt="Snake animation" />
 
 ###
