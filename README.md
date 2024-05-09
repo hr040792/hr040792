@@ -3,10 +3,10 @@
 ###
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="51" height="25" alt="linkedin logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="51" height="25" alt="twitter logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="51" height="25" alt="instagram logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="51" height="25" alt="gmail logo"  />
+  <img src="https://www.linkedin.com/in/vishwesh-sinha/" width="51" height="25" alt="linkedin logo"  />
+  <img src="https://twitter.com/VishweshSi45910" width="51" height="25" alt="twitter logo"  />
+  <img src="https://www.instagram.com/vishweshsinha/" width="51" height="25" alt="instagram logo"  />
+  <img src="https://mail.google.com/mail/u/0/#inbox?compose=GTvVlcSDXmnJdLWswkMddbzBZRDpDNJsvQzKZNWfjCRnsFdkNXvHCljPhhjnHGqmxvQswMsjjtVKm" width="51" height="25" alt="gmail logo"  />
 </div>
 
 ###
